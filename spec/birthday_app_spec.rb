@@ -1,0 +1,1 @@
+require 'birthday_app'
