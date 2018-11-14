@@ -1,1 +1,1 @@
-require 'birthday_app'
+require './birthday_app'
